@@ -1,0 +1,385 @@
+Studente;Sezione;Materia;Argomento;Voto
+Mantovani Viktoriya;A;Matematica;Derivate;5
+Dalmasso Emanuele Salvatore;A;Matematica;Derivate;5
+Messina Pasquale;A;Matematica;Derivate;7
+Fusco Arianna;A;Matematica;Derivate;5
+Dal Farra  Mariateresa;A;Matematica;Derivate;7
+Ferrari Piera Andreina;A;Matematica;Derivate;5
+Filippi Antonio;A;Matematica;Derivate;6
+D'Orazio Yusef Gabriel;A;Matematica;Derivate;8
+Lai Giovanna;A;Matematica;Derivate;6
+Battaglia Ottavio;A;Matematica;Derivate;6
+Greco Piera;A;Matematica;Derivate;8
+Bionaz Carla;A;Matematica;Derivate;6
+Surace Pietro;A;Matematica;Derivate;6
+De Luca Mario;A;Matematica;Derivate;5
+Magnani Sabrina;A;Matematica;Derivate;6
+Mereu Giuseppina;A;Matematica;Derivate;5
+Fumagalli Giuseppina;A;Matematica;Derivate;6
+Ricci Valeria;A;Matematica;Derivate;6
+Carta Anna;A;Matematica;Derivate;6
+Benedetti Diego;A;Matematica;Derivate;6
+Rosati Ion;A;Matematica;Derivate;7
+Rossi Hamza;A;Matematica;Derivate;4
+De Luca Silvia;B;Matematica;Derivate;7
+Petronio Lorina;B;Matematica;Derivate;6
+Prencipe Vittoria Piera Matilde;B;Matematica;Derivate;8
+Mancini Giulia;B;Matematica;Derivate;7
+Marino Marcello;B;Matematica;Derivate;9
+Marinelli Hammou;B;Matematica;Derivate;8
+Belotti Giada;B;Matematica;Derivate;8
+Basso Stefano;B;Matematica;Derivate;7
+Cassano Aurora;B;Matematica;Derivate;7
+Torrisi Michelino;B;Matematica;Derivate;9
+Ferretti Elvira;B;Matematica;Derivate;9
+Piazzolla Stefania;B;Matematica;Derivate;8
+Russo Cristina;B;Matematica;Derivate;8
+Merola Maria;B;Matematica;Derivate;7
+Rosati Nush;B;Matematica;Derivate;9
+Mancini Piero;B;Matematica;Derivate;8
+Bruno Maria Pia;B;Matematica;Derivate;9
+Santilli Elvira;B;Matematica;Derivate;7
+Pellegrini Filippo;B;Matematica;Derivate;10
+Furlan Flavio;B;Matematica;Derivate;8
+Sartor Francesco;B;Matematica;Derivate;8
+Pedrotti Malak;B;Matematica;Derivate;7
+Costa Andrea;B;Matematica;Derivate;7
+Barbieri Lamin;B;Matematica;Derivate;8
+Romano Niccolo';C;Matematica;Derivate;4
+Amato Bruno;C;Matematica;Derivate;2
+Russo Giangiacomo;C;Matematica;Derivate;10
+Deiana Enzo;C;Matematica;Derivate;9
+Rossi Roberto;C;Matematica;Derivate;6
+Baldini Aleksandra Halina;C;Matematica;Derivate;7
+Pedrazzini Riccardo;C;Matematica;Derivate;7
+Di Felice Paolina;C;Matematica;Derivate;7
+Rossi Teresa;C;Matematica;Derivate;10
+Casadei Emanuele;C;Matematica;Derivate;5
+De Angelis Nicola;C;Matematica;Derivate;9
+Ferrari Silvia Gabriella;C;Matematica;Derivate;7
+Ferrari Stefano;C;Matematica;Derivate;10
+Capriotti Luca;C;Matematica;Derivate;8
+Russo Antonella;C;Matematica;Derivate;5
+Rosso Niccolo';C;Matematica;Derivate;10
+Ferrari Daniela Catalina;C;Matematica;Derivate;8
+Montalbano Maria Grazia;C;Matematica;Derivate;6
+Mantovani Viktoriya;A;Matematica;Integrali;5
+Dalmasso Emanuele Salvatore;A;Matematica;Integrali;5
+Messina Pasquale;A;Matematica;Integrali;7
+Fusco Arianna;A;Matematica;Integrali;6
+Dal Farra  Mariateresa;A;Matematica;Integrali;7
+Ferrari Piera Andreina;A;Matematica;Integrali;5
+Filippi Antonio;A;Matematica;Integrali;6
+D'Orazio Yusef Gabriel;A;Matematica;Integrali;6
+Lai Giovanna;A;Matematica;Integrali;6
+Battaglia Ottavio;A;Matematica;Integrali;5
+Greco Piera;A;Matematica;Integrali;6
+Bionaz Carla;A;Matematica;Integrali;7
+Surace Pietro;A;Matematica;Integrali;6
+De Luca Mario;A;Matematica;Integrali;6
+Magnani Sabrina;A;Matematica;Integrali;7
+Mereu Giuseppina;A;Matematica;Integrali;8
+Fumagalli Giuseppina;A;Matematica;Integrali;7
+Ricci Valeria;A;Matematica;Integrali;6
+Carta Anna;A;Matematica;Integrali;9
+Benedetti Diego;A;Matematica;Integrali;6
+Rosati Ion;A;Matematica;Integrali;7
+Rossi Hamza;A;Matematica;Integrali;5
+De Luca Silvia;B;Matematica;Integrali;5
+Petronio Lorina;B;Matematica;Integrali;2
+Prencipe Vittoria Piera Matilde;B;Matematica;Integrali;6
+Mancini Giulia;B;Matematica;Integrali;9
+Marino Marcello;B;Matematica;Integrali;7
+Marinelli Hammou;B;Matematica;Integrali;8
+Belotti Giada;B;Matematica;Integrali;8
+Basso Stefano;B;Matematica;Integrali;6
+Cassano Aurora;B;Matematica;Integrali;4
+Torrisi Michelino;B;Matematica;Integrali;8
+Ferretti Elvira;B;Matematica;Integrali;9
+Piazzolla Stefania;B;Matematica;Integrali;7
+Russo Cristina;B;Matematica;Integrali;6
+Merola Maria;B;Matematica;Integrali;6
+Rosati Nush;B;Matematica;Integrali;7
+Mancini Piero;B;Matematica;Integrali;8
+Bruno Maria Pia;B;Matematica;Integrali;10
+Santilli Elvira;B;Matematica;Integrali;7
+Pellegrini Filippo;B;Matematica;Integrali;5
+Furlan Flavio;B;Matematica;Integrali;7
+Sartor Francesco;B;Matematica;Integrali;8
+Pedrotti Malak;B;Matematica;Integrali;5
+Costa Andrea;B;Matematica;Integrali;8
+Barbieri Lamin;B;Matematica;Integrali;9
+Romano Niccolo';C;Matematica;Integrali;3
+Amato Bruno;C;Matematica;Integrali;7
+Russo Giangiacomo;C;Matematica;Integrali;7
+Deiana Enzo;C;Matematica;Integrali;6
+Rossi Roberto;C;Matematica;Integrali;3
+Baldini Aleksandra Halina;C;Matematica;Integrali;3
+Pedrazzini Riccardo;C;Matematica;Integrali;7
+Di Felice Paolina;C;Matematica;Integrali;3
+Rossi Teresa;C;Matematica;Integrali;8
+Casadei Emanuele;C;Matematica;Integrali;2
+De Angelis Nicola;C;Matematica;Integrali;5
+Ferrari Silvia Gabriella;C;Matematica;Integrali;2
+Ferrari Stefano;C;Matematica;Integrali;2
+Capriotti Luca;C;Matematica;Integrali;6
+Russo Antonella;C;Matematica;Integrali;10
+Rosso Niccolo';C;Matematica;Integrali;8
+Ferrari Daniela Catalina;C;Matematica;Integrali;3
+Montalbano Maria Grazia;C;Matematica;Integrali;3
+Mantovani Viktoriya;A;Matematica;Analisi di funzione;5
+Dalmasso Emanuele Salvatore;A;Matematica;Analisi di funzione;3
+Messina Pasquale;A;Matematica;Analisi di funzione;2
+Fusco Arianna;A;Matematica;Analisi di funzione;1
+Dal Farra  Mariateresa;A;Matematica;Analisi di funzione;7
+Ferrari Piera Andreina;A;Matematica;Analisi di funzione;6
+Filippi Antonio;A;Matematica;Analisi di funzione;4
+D'Orazio Yusef Gabriel;A;Matematica;Analisi di funzione;5
+Lai Giovanna;A;Matematica;Analisi di funzione;1
+Battaglia Ottavio;A;Matematica;Analisi di funzione;6
+Greco Piera;A;Matematica;Analisi di funzione;6
+Bionaz Carla;A;Matematica;Analisi di funzione;2
+Surace Pietro;A;Matematica;Analisi di funzione;7
+De Luca Mario;A;Matematica;Analisi di funzione;5
+Magnani Sabrina;A;Matematica;Analisi di funzione;1
+Mereu Giuseppina;A;Matematica;Analisi di funzione;3
+Fumagalli Giuseppina;A;Matematica;Analisi di funzione;3
+Ricci Valeria;A;Matematica;Analisi di funzione;7
+Carta Anna;A;Matematica;Analisi di funzione;6
+Benedetti Diego;A;Matematica;Analisi di funzione;3
+Rosati Ion;A;Matematica;Analisi di funzione;3
+Rossi Hamza;A;Matematica;Analisi di funzione;4
+De Luca Silvia;B;Matematica;Analisi di funzione;7
+Petronio Lorina;B;Matematica;Analisi di funzione;7
+Prencipe Vittoria Piera Matilde;B;Matematica;Analisi di funzione;8
+Mancini Giulia;B;Matematica;Analisi di funzione;9
+Marino Marcello;B;Matematica;Analisi di funzione;5
+Marinelli Hammou;B;Matematica;Analisi di funzione;8
+Belotti Giada;B;Matematica;Analisi di funzione;7
+Basso Stefano;B;Matematica;Analisi di funzione;7
+Cassano Aurora;B;Matematica;Analisi di funzione;7
+Torrisi Michelino;B;Matematica;Analisi di funzione;6
+Ferretti Elvira;B;Matematica;Analisi di funzione;7
+Piazzolla Stefania;B;Matematica;Analisi di funzione;7
+Russo Cristina;B;Matematica;Analisi di funzione;8
+Merola Maria;B;Matematica;Analisi di funzione;7
+Rosati Nush;B;Matematica;Analisi di funzione;7
+Mancini Piero;B;Matematica;Analisi di funzione;7
+Bruno Maria Pia;B;Matematica;Analisi di funzione;5
+Santilli Elvira;B;Matematica;Analisi di funzione;7
+Pellegrini Filippo;B;Matematica;Analisi di funzione;7
+Furlan Flavio;B;Matematica;Analisi di funzione;7
+Sartor Francesco;B;Matematica;Analisi di funzione;6
+Pedrotti Malak;B;Matematica;Analisi di funzione;5
+Costa Andrea;B;Matematica;Analisi di funzione;7
+Barbieri Lamin;B;Matematica;Analisi di funzione;7
+Romano Niccolo';C;Matematica;Analisi di funzione;7
+Amato Bruno;C;Matematica;Analisi di funzione;10
+Russo Giangiacomo;C;Matematica;Analisi di funzione;9
+Deiana Enzo;C;Matematica;Analisi di funzione;5
+Rossi Roberto;C;Matematica;Analisi di funzione;5
+Baldini Aleksandra Halina;C;Matematica;Analisi di funzione;9
+Pedrazzini Riccardo;C;Matematica;Analisi di funzione;8
+Di Felice Paolina;C;Matematica;Analisi di funzione;8
+Rossi Teresa;C;Matematica;Analisi di funzione;7
+Casadei Emanuele;C;Matematica;Analisi di funzione;7
+De Angelis Nicola;C;Matematica;Analisi di funzione;6
+Ferrari Silvia Gabriella;C;Matematica;Analisi di funzione;6
+Ferrari Stefano;C;Matematica;Analisi di funzione;2
+Capriotti Luca;C;Matematica;Analisi di funzione;5
+Russo Antonella;C;Matematica;Analisi di funzione;6
+Rosso Niccolo';C;Matematica;Analisi di funzione;5
+Ferrari Daniela Catalina;C;Matematica;Analisi di funzione;8
+Montalbano Maria Grazia;C;Matematica;Analisi di funzione;7
+Mantovani Viktoriya;A;Italiano;Pascoli;8
+Dalmasso Emanuele Salvatore;A;Italiano;Pascoli;8
+Messina Pasquale;A;Italiano;Pascoli;8
+Fusco Arianna;A;Italiano;Pascoli;8
+Dal Farra  Mariateresa;A;Italiano;Pascoli;7
+Ferrari Piera Andreina;A;Italiano;Pascoli;6
+Filippi Antonio;A;Italiano;Pascoli;8
+D'Orazio Yusef Gabriel;A;Italiano;Pascoli;6
+Lai Giovanna;A;Italiano;Pascoli;7
+Battaglia Ottavio;A;Italiano;Pascoli;6
+Greco Piera;A;Italiano;Pascoli;8
+Bionaz Carla;A;Italiano;Pascoli;8
+Surace Pietro;A;Italiano;Pascoli;7
+De Luca Mario;A;Italiano;Pascoli;7
+Magnani Sabrina;A;Italiano;Pascoli;7
+Mereu Giuseppina;A;Italiano;Pascoli;6
+Fumagalli Giuseppina;A;Italiano;Pascoli;9
+Ricci Valeria;A;Italiano;Pascoli;6
+Carta Anna;A;Italiano;Pascoli;8
+Benedetti Diego;A;Italiano;Pascoli;7
+Rosati Ion;A;Italiano;Pascoli;9
+Rossi Hamza;A;Italiano;Pascoli;6
+De Luca Silvia;B;Italiano;Pascoli;4
+Petronio Lorina;B;Italiano;Pascoli;7
+Prencipe Vittoria Piera Matilde;B;Italiano;Pascoli;4
+Mancini Giulia;B;Italiano;Pascoli;3
+Marino Marcello;B;Italiano;Pascoli;9
+Marinelli Hammou;B;Italiano;Pascoli;6
+Belotti Giada;B;Italiano;Pascoli;7
+Basso Stefano;B;Italiano;Pascoli;5
+Cassano Aurora;B;Italiano;Pascoli;8
+Torrisi Michelino;B;Italiano;Pascoli;6
+Ferretti Elvira;B;Italiano;Pascoli;5
+Piazzolla Stefania;B;Italiano;Pascoli;1
+Russo Cristina;B;Italiano;Pascoli;4
+Merola Maria;B;Italiano;Pascoli;2
+Rosati Nush;B;Italiano;Pascoli;7
+Mancini Piero;B;Italiano;Pascoli;5
+Bruno Maria Pia;B;Italiano;Pascoli;10
+Santilli Elvira;B;Italiano;Pascoli;1
+Pellegrini Filippo;B;Italiano;Pascoli;3
+Furlan Flavio;B;Italiano;Pascoli;5
+Sartor Francesco;B;Italiano;Pascoli;4
+Pedrotti Malak;B;Italiano;Pascoli;1
+Costa Andrea;B;Italiano;Pascoli;8
+Barbieri Lamin;B;Italiano;Pascoli;7
+Romano Niccolo';C;Italiano;Pascoli;8
+Amato Bruno;C;Italiano;Pascoli;7
+Russo Giangiacomo;C;Italiano;Pascoli;7
+Deiana Enzo;C;Italiano;Pascoli;8
+Rossi Roberto;C;Italiano;Pascoli;9
+Baldini Aleksandra Halina;C;Italiano;Pascoli;6
+Pedrazzini Riccardo;C;Italiano;Pascoli;7
+Di Felice Paolina;C;Italiano;Pascoli;7
+Rossi Teresa;C;Italiano;Pascoli;9
+Casadei Emanuele;C;Italiano;Pascoli;8
+De Angelis Nicola;C;Italiano;Pascoli;7
+Ferrari Silvia Gabriella;C;Italiano;Pascoli;9
+Ferrari Stefano;C;Italiano;Pascoli;7
+Capriotti Luca;C;Italiano;Pascoli;8
+Russo Antonella;C;Italiano;Pascoli;9
+Rosso Niccolo';C;Italiano;Pascoli;9
+Ferrari Daniela Catalina;C;Italiano;Pascoli;8
+Montalbano Maria Grazia;C;Italiano;Pascoli;8
+Mantovani Viktoriya;A;Italiano;Dante;4
+Dalmasso Emanuele Salvatore;A;Italiano;Dante;6
+Messina Pasquale;A;Italiano;Dante;6
+Fusco Arianna;A;Italiano;Dante;6
+Dal Farra  Mariateresa;A;Italiano;Dante;5
+Ferrari Piera Andreina;A;Italiano;Dante;6
+Filippi Antonio;A;Italiano;Dante;9
+D'Orazio Yusef Gabriel;A;Italiano;Dante;7
+Lai Giovanna;A;Italiano;Dante;9
+Battaglia Ottavio;A;Italiano;Dante;7
+Greco Piera;A;Italiano;Dante;10
+Bionaz Carla;A;Italiano;Dante;6
+Surace Pietro;A;Italiano;Dante;9
+De Luca Mario;A;Italiano;Dante;4
+Magnani Sabrina;A;Italiano;Dante;9
+Mereu Giuseppina;A;Italiano;Dante;8
+Fumagalli Giuseppina;A;Italiano;Dante;9
+Ricci Valeria;A;Italiano;Dante;6
+Carta Anna;A;Italiano;Dante;9
+Benedetti Diego;A;Italiano;Dante;7
+Rosati Ion;A;Italiano;Dante;10
+Rossi Hamza;A;Italiano;Dante;4
+De Luca Silvia;B;Italiano;Dante;5
+Petronio Lorina;B;Italiano;Dante;7
+Prencipe Vittoria Piera Matilde;B;Italiano;Dante;7
+Mancini Giulia;B;Italiano;Dante;3
+Marino Marcello;B;Italiano;Dante;6
+Marinelli Hammou;B;Italiano;Dante;4
+Belotti Giada;B;Italiano;Dante;1
+Basso Stefano;B;Italiano;Dante;7
+Cassano Aurora;B;Italiano;Dante;5
+Torrisi Michelino;B;Italiano;Dante;5
+Ferretti Elvira;B;Italiano;Dante;2
+Piazzolla Stefania;B;Italiano;Dante;3
+Russo Cristina;B;Italiano;Dante;7
+Merola Maria;B;Italiano;Dante;5
+Rosati Nush;B;Italiano;Dante;7
+Mancini Piero;B;Italiano;Dante;5
+Bruno Maria Pia;B;Italiano;Dante;5
+Santilli Elvira;B;Italiano;Dante;3
+Pellegrini Filippo;B;Italiano;Dante;4
+Furlan Flavio;B;Italiano;Dante;5
+Sartor Francesco;B;Italiano;Dante;7
+Pedrotti Malak;B;Italiano;Dante;7
+Costa Andrea;B;Italiano;Dante;5
+Barbieri Lamin;B;Italiano;Dante;7
+Romano Niccolo';C;Italiano;Dante;8
+Amato Bruno;C;Italiano;Dante;9
+Russo Giangiacomo;C;Italiano;Dante;8
+Deiana Enzo;C;Italiano;Dante;8
+Rossi Roberto;C;Italiano;Dante;8
+Baldini Aleksandra Halina;C;Italiano;Dante;7
+Pedrazzini Riccardo;C;Italiano;Dante;8
+Di Felice Paolina;C;Italiano;Dante;8
+Rossi Teresa;C;Italiano;Dante;7
+Casadei Emanuele;C;Italiano;Dante;9
+De Angelis Nicola;C;Italiano;Dante;9
+Ferrari Silvia Gabriella;C;Italiano;Dante;9
+Ferrari Stefano;C;Italiano;Dante;8
+Capriotti Luca;C;Italiano;Dante;6
+Russo Antonella;C;Italiano;Dante;8
+Rosso Niccolo';C;Italiano;Dante;6
+Ferrari Daniela Catalina;C;Italiano;Dante;9
+Montalbano Maria Grazia;C;Italiano;Dante;7
+Mantovani Viktoriya;A;Italiano;Petrarca;7
+Dalmasso Emanuele Salvatore;A;Italiano;Petrarca;10
+Messina Pasquale;A;Italiano;Petrarca;8
+Fusco Arianna;A;Italiano;Petrarca;9
+Dal Farra  Mariateresa;A;Italiano;Petrarca;9
+Ferrari Piera Andreina;A;Italiano;Petrarca;8
+Filippi Antonio;A;Italiano;Petrarca;8
+D'Orazio Yusef Gabriel;A;Italiano;Petrarca;7
+Lai Giovanna;A;Italiano;Petrarca;7
+Battaglia Ottavio;A;Italiano;Petrarca;8
+Greco Piera;A;Italiano;Petrarca;9
+Bionaz Carla;A;Italiano;Petrarca;9
+Surace Pietro;A;Italiano;Petrarca;8
+De Luca Mario;A;Italiano;Petrarca;7
+Magnani Sabrina;A;Italiano;Petrarca;7
+Mereu Giuseppina;A;Italiano;Petrarca;10
+Fumagalli Giuseppina;A;Italiano;Petrarca;7
+Ricci Valeria;A;Italiano;Petrarca;9
+Carta Anna;A;Italiano;Petrarca;9
+Benedetti Diego;A;Italiano;Petrarca;7
+Rosati Ion;A;Italiano;Petrarca;9
+Rossi Hamza;A;Italiano;Petrarca;8
+De Luca Silvia;B;Italiano;Petrarca;9
+Petronio Lorina;B;Italiano;Petrarca;5
+Prencipe Vittoria Piera Matilde;B;Italiano;Petrarca;1
+Mancini Giulia;B;Italiano;Petrarca;8
+Marino Marcello;B;Italiano;Petrarca;4
+Marinelli Hammou;B;Italiano;Petrarca;5
+Belotti Giada;B;Italiano;Petrarca;6
+Basso Stefano;B;Italiano;Petrarca;8
+Cassano Aurora;B;Italiano;Petrarca;6
+Torrisi Michelino;B;Italiano;Petrarca;8
+Ferretti Elvira;B;Italiano;Petrarca;7
+Piazzolla Stefania;B;Italiano;Petrarca;8
+Russo Cristina;B;Italiano;Petrarca;4
+Merola Maria;B;Italiano;Petrarca;4
+Rosati Nush;B;Italiano;Petrarca;8
+Mancini Piero;B;Italiano;Petrarca;8
+Bruno Maria Pia;B;Italiano;Petrarca;5
+Santilli Elvira;B;Italiano;Petrarca;4
+Pellegrini Filippo;B;Italiano;Petrarca;9
+Furlan Flavio;B;Italiano;Petrarca;6
+Sartor Francesco;B;Italiano;Petrarca;8
+Pedrotti Malak;B;Italiano;Petrarca;4
+Costa Andrea;B;Italiano;Petrarca;6
+Barbieri Lamin;B;Italiano;Petrarca;5
+Romano Niccolo';C;Italiano;Petrarca;3
+Amato Bruno;C;Italiano;Petrarca;8
+Russo Giangiacomo;C;Italiano;Petrarca;5
+Deiana Enzo;C;Italiano;Petrarca;3
+Rossi Roberto;C;Italiano;Petrarca;1
+Baldini Aleksandra Halina;C;Italiano;Petrarca;7
+Pedrazzini Riccardo;C;Italiano;Petrarca;5
+Di Felice Paolina;C;Italiano;Petrarca;4
+Rossi Teresa;C;Italiano;Petrarca;2
+Casadei Emanuele;C;Italiano;Petrarca;3
+De Angelis Nicola;C;Italiano;Petrarca;1
+Ferrari Silvia Gabriella;C;Italiano;Petrarca;8
+Ferrari Stefano;C;Italiano;Petrarca;3
+Capriotti Luca;C;Italiano;Petrarca;6
+Russo Antonella;C;Italiano;Petrarca;8
+Rosso Niccolo';C;Italiano;Petrarca;3
+Ferrari Daniela Catalina;C;Italiano;Petrarca;10
+Montalbano Maria Grazia;C;Italiano;Petrarca;6
