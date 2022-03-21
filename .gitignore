@@ -1,3 +1,5 @@
 *.pyc
 venv/
 .idea/
+notebooks/.ipynb_checkpoints/
+datasets_generator/.ipynb_checkpoints/
